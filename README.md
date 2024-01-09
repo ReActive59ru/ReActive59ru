@@ -1,8 +1,9 @@
 [![Header](https://github.com/ReActive59ru/ReActive59ru/blob/main/assets/Header.png)](https://vk.com/reactive59ru)
 
-## Я начинающий QA инженер, познаю как работать с разными программами, увлекаюсь страйкболом.
+## About me
+Я начинающий QA инженер, познаю как работать с разными программами, увлекаюсь страйкболом.
 
-Languages and Tools
+## Languages and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-090909.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -12,6 +13,10 @@ Languages and Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-Follow me
+## Contacts
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ReActive59ru)
+[![VK](https://img.shields.io/badge/VK-0077ff?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/reactive59ru)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suicidebanny@gmail.com)
+[![Mail](https://img.shields.io/badge/Mail.ru-2775fc?style=for-the-badge&logo=Mail.ru&logoColor=%23ED8B00)](mailto:a.verkholantsev@mail.ru)
 
