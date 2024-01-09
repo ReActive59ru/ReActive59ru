@@ -1,7 +1,8 @@
 [![Header](https://github.com/ReActive59ru/ReActive59ru/blob/main/assets/Header.png)](https://vk.com/reactive59ru)
 
 ## About me
-Я начинающий QA инженер, познаю как работать с разными программами, увлекаюсь страйкболом.
+Я начинающий QA инженер, познаю как работать с разными программами.
+Почти 8 лет работал в технической поддержке, в секторах B2C и B2B.
 
 ## Languages and Tools
 
@@ -19,4 +20,11 @@
 [![VK](https://img.shields.io/badge/VK-0077ff?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/reactive59ru)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suicidebanny@gmail.com)
 [![Mail](https://img.shields.io/badge/Mail.ru-2775fc?style=for-the-badge&logo=Mail.ru&logoColor=%23ED8B00)](mailto:a.verkholantsev@mail.ru)
+
+## Увлечения
+
+Играю в страйкбол (airsoft).
+Любимая музыка - рок, любимая группа - Linkin Park
+Увлекаюсь играми на ПК, из последних, в которые часто играю: EFT, PoE.
+Люблю животных, есть собака (фото ниже):
 
