@@ -27,4 +27,5 @@
 Любимая музыка - рок, любимая группа - Linkin Park
 Увлекаюсь играми на ПК, из последних, в которые часто играю: EFT, PoE.
 Люблю животных, есть собака (фото ниже):
-[![Header](https://github.com/ReActive59ru/ReActive59ru/blob/main/assets/Doggo1.jpg)(https://github.com/ReActive59ru/ReActive59ru/blob/main/assets/Doggo2.jpg)]
+![Header](https://github.com/ReActive59ru/ReActive59ru/blob/main/assets/Doggo1.jpg)
+![Header](https://github.com/ReActive59ru/ReActive59ru/blob/main/assets/Doggo2.jpg)
